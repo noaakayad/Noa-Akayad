@@ -18,4 +18,5 @@ Feel free to explore my repositories, and don't hesitate to reach out if you wan
 
 ---
 
-You can also add your contact info here, or provide links to your social media or professional profiles like LinkedIn, etc.
+noa.akayad@etu.emse.fr
+https://www.linkedin.com/in/noa-akayad-b9a9a733a/
